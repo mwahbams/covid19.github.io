@@ -1,0 +1,88 @@
+{
+  "homeCovidScreen" :{
+    "coronaVirus": "فيروس كرونا",
+    "countries": "البلاد",
+    "charts": "مخططات",
+    "egypt": "مصر",
+    "settings": "اعدادات",
+    "commingSoon ": "آتي قريبا !!",
+    "searchCountryHere" : "ابحث عن البلد هنا",
+    "home" : "الرئيسية",
+    "language" : "اعدادات اللغة",
+    "darkMood" : "الوضع الليلى",
+    "cases" : "الحالات",
+    "deaths" : "الوفيات",
+    "recovered" : "المتعافين",
+    "lastUpdated" : "آخر تحديث",
+    "deathPercentage" : "نسبة الوفيات",
+    "noData": "لا توجد بيانات حتى الآن!",
+    "active": "النشيطين",
+    "todayCases": "حالات اليوم",
+    "todayDeaths": "وفيات اليوم",
+    "deathsPerOneMillion": "الوفيات لكل مليون",
+    "casesPerOneMillion": "الحالات لكل مليون",
+    "country" : "البلد",
+    "topCasesPerCountry": "أعلى الحالات لكل بلد" ,
+    "topRecoveredPerCountry": "أعلى حالات شفاء لكل دولة" ,
+    "topTodayCasesPerCountry": "أعلى حالات اليوم لكل بلد" ,
+    "topTodayDeathPerCountry": "أعلى حالات وفاة اليوم لكل بلد" ,
+    "topDeathPerCountry": "أعلى معدل وفاة لكل بلد",
+    "invite": "دعوة للاصدقاء",
+    "worldometers" : "ورلد ميتر",
+    "pickColor": "حدد لون",
+    "chooseLanguage" : "اختار اللغة"
+  },
+  "loginScreen" :{
+    "mobileNumber": "رقم المحمول",
+    "password": "كلمه السر",
+    "login": "تسجيل الدخول",
+    "forgetPassword": "تغيير كلمة السر",
+    "haveAccount": "ليس لديك حساب؟",
+    "signup": "تسجيل حساب",
+    "skip": "تخطى",
+    "mobileCode": "+965"
+  },
+  "signupScreen" :{
+    "signup": "تسجيل حساب",
+    "mobileNumber": "   رقم المحمول",
+    "fullName": "   الاسم بالكامل",
+    "email": "   البريد الالكترونى",
+    "password": "   كلمة السر",
+    "confirmedPassword": "   تاكيد كلمة السر",
+    "login": "تسجيل الدخول",
+    "birthDate": "تاريخ المسلاد",
+    "gender": "النوع",
+    "male": "ذكر",
+    "female": "أنثى",
+    "privateAccountHint": "من خلال جعل حسابك خاصًا ، لا يمكن للمتابعين رؤية قوائم الرغبات التي تريدها ، وسيتطلب المتابعة موافقة منك",
+    "privateAccount": "حساب خاص",
+    "signupHint1": "بالتسجيل أنت",
+    "signupHint2": "توافق على الشروط والأحكام الخاصة بنا",
+    "signupButton": "تسجيل حساب",
+    "haveAccount": "لديك حساب CADOU بالفعل؟"
+  },
+  "introScreen": {
+    "skip": "تخطى",
+    "next" : "التالى",
+    "done": "تم",
+    "pageViewModelTitle1" : "اعثر على الهدية المثالية!",
+    "pageViewModelBody1" : "أكثر من الآلاف من الهدايا المختارة والمنسقة في أي مناسبة",
+    "pageViewModelTitle2" : "لا تنسَ أبدًا مناسبة!",
+    "pageViewModelBody2" : "تتبع مناسبات أحبائك واحصل على اقتراحات هدايا",
+    "pageViewModelTitle3" : "اشتري لهم ما يريدون!",
+    "pageViewModelBody3" : "الوصول إلى قوائم أمنيات أصدقائك والحصول عليها بالضبط ما يحتاجونه",
+    "pageViewModelTitle4" : "إهداء الأصدقاء أسهل من أي وقت مضى!",
+    "pageViewModelBody4" : "إنشاء مناسبة إهداء ومشاركتها مع الأصدقاء لحجز هديتهم"
+  },
+  "homeScreen": {
+    "name" : "home Screen"
+  },
+  "taskScreen" : {
+    "name" : "TaskScreen",
+    "hello" :"Hello",
+    "todoey" : "Todo Screen"
+  },
+  "addScreen" : {
+    "name": "AddScreen"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "homeCovidScreen" :{
+    "coronaVirus": "CoronaVirus",
+    "countries": "Countries",
+    "charts": "Charts",
+    "egypt": "Egypt",
+    "settings": "Settings",
+    "commingSoon": "Comning Soon !!",
+    "searchCountryHere" : "Search Country Here",
+    "home" : "Home",
+    "language" : "Language settings",
+    "darkMood" : "Dark Mood",
+    "cases" : "Cases",
+    "deaths" : "Deaths",
+    "recovered" : "Recovered",
+    "lastUpdated" : "Last Updated",
+    "deathPercentage" : "Death Percentage",
+    "noData": "There is no Data Yet!",
+    "active": "Active",
+    "todayCases": "Today Cases",
+    "todayDeaths": "Today Deaths",
+    "deathsPerOneMillion": "Deaths Per One Million",
+    "casesPerOneMillion": "Cases Per One Million",
+    "country" : "Country",
+    "topCasesPerCountry": "Top Cases Per Country",
+    "topRecoveredPerCountry": "Top Recovered Per Country",
+    "topTodayCasesPerCountry": "Top Today Cases Per Country",
+    "topTodayDeathPerCountry": "Top Today Death Per Country",
+    "topDeathPerCountry": "Top Death Per Country",
+    "invite": "Invite Friends",
+    "worldometers" : "World OMeters",
+    "pickColor": "Pick your color",
+    "chooseLanguage" : "Choose language"
+  },
+  "loginScreen" :{
+    "mobileNumber": "Mobile Number",
+    "password": "Password",
+    "login": "LOGIN",
+    "forgetPassword": "FORGET PASSWORD",
+    "haveAccount": "Don't have an account?",
+    "signup": "SIGNUP",
+    "skip": "SKIP",
+    "mobileCode": "+965"
+  },
+  "signupScreen" :{
+    "signup": "SIGN UP",
+    "mobileNumber": "   Mobile Number",
+    "fullName": "   Full Name",
+    "email": "   Email",
+    "password": "   Password",
+    "confirmedPassword": "   Confirmed Password",
+    "login": "LOGIN",
+    "birthDate": "Birth Date",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "privateAccountHint": "By making your account private, your followers can’t see you wish lists and following you will require An approval",
+    "privateAccount": "Private Account",
+    "signupHint1": "By signing up you are",
+    "signupHint2": "agree on our terms & conditions",
+    "signupButton": "SIGNUP",
+    "haveAccount": "Already have a CADOU account?"
+  },
+  "introScreen": {
+    "skip": "SKIP",
+    "next" : "NEXT",
+    "done": "DONE",
+    "pageViewModelTitle1" : "Find the perfect Gift!",
+    "pageViewModelBody1" : "Over thousands of selected and curated gifts selection for any occasion",
+    "pageViewModelTitle2" : "Never forget An occasion!",
+    "pageViewModelBody2" : "Track your loved ones occasions And get gift suggestions",
+    "pageViewModelTitle3" : "Buy them what they Want!",
+    "pageViewModelBody3" : "Access to your friends Wish lists and get them exactly what they need",
+    "pageViewModelTitle4" : "Friends Gifting Never easier!",
+    "pageViewModelBody4" : "Create a gifting occasion and share it with friends to book their gift"
+  },
+  "homeScreen": {
+    "name" : "home Screen"
+  },
+  "taskScreen" : {
+    "name" : "TaskScreen",
+    "hello" :"Hello",
+    "todoey" : "Todo Screen"
+  },
+  "addScreen" : {
+    "name": "AddScreen"
+  }
+}
